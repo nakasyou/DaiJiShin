@@ -3,7 +3,9 @@ const nextConfig = {
   output: 'export',
   assetPrefix: '/daijishin',
   basePath: '/daijishin',
-  ignoreDuringBuilds: true,
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 }
 
 module.exports = nextConfig
