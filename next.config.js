@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  assetPrefix: '/hoge',
+  assetPrefix: '/DaiJiShin',
 }
 
 module.exports = nextConfig
