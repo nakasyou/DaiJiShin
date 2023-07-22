@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  assetPrefix: '/daijishin',
-  basePath: '/daijishin',
+  assetPrefix: '/kojishin',
+  basePath: '/kojishin',
   eslint: {
     ignoreDuringBuilds: true,
   },
